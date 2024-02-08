@@ -17,7 +17,7 @@ I'm a Frontend Developer at Core Innovation currently working with React, TypeSc
 
 ## Projects
 - **CoreBeat Dashboard:** [https://www.core-innovation.com/core-beat]
-- **Prelude - Res Selector:** [Link to Prelude - Res Selector]
+- **Prelude - Res Selector:** [https://prelude-project.eu/]
 
 ## Passion & Goals
 I'm driven by my love for technology and enjoy the problem-solving aspect of development. Going fullstack excites me as it enables me to create end-to-end applications that people can use and enjoy. I'm always eager to learn something new; stagnation is not an option for me.
