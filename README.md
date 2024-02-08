@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm Alexandros! 👋
+# Hi there, I'm Alex! 
 
 ![GitHub followers](https://img.shields.io/github/followers/alexrez?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/alexrezkalla?style=social)
