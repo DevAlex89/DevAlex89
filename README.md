@@ -6,6 +6,8 @@
 
 
 I'm a Frontend Developer at Core Innovation currently working with React, TypeScript, Redux Toolkit, Vitest, Material-UI, and React Router. I'm passionate about technology, and I love diving deep to understand how things work under the hood.
+
+
 ![coding](https://raw.githubusercontent.com/DevAlex89/DevAlex89/main/giphy.gif)
 
 ## Technologies & Skills
