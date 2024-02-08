@@ -16,7 +16,7 @@ I'm a Frontend Developer at Core Innovation currently working with React, TypeSc
 ![React Router](https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 
 ## Projects
-- **CoreBeat Dashboard:** [Link to CoreBeat Dashboard]
+- **CoreBeat Dashboard:** [https://www.core-innovation.com/core-beat]
 - **Prelude - Res Selector:** [Link to Prelude - Res Selector]
 
 ## Passion & Goals
