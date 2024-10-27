@@ -28,8 +28,5 @@ I'm driven by my love for technology and enjoy the problem-solving aspect of dev
 ## Fun Facts & Hobbies
 When I'm not coding or studying, you can find me immersed in gaming. I game on Manjaro (Arch btw) and help run a server for one of my favorite FPS, Rising Storm 2: Vietnam.
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexrezkalla/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://developedbyalex-tau.vercel.app/)
 
 Feel free to connect with me or check out my projects, and let's build something amazing together!
