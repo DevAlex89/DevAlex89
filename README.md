@@ -26,7 +26,7 @@ I'm a Frontend Developer at Core Innovation currently working with React, TypeSc
 I'm driven by my love for technology and enjoy the problem-solving aspect of development. Going fullstack excites me as it enables me to create end-to-end applications that people can use and enjoy. I'm always eager to learn something new; stagnation is not an option for me.
 
 ## Fun Facts & Hobbies
-When I'm not coding or studying, you can find me immersed in gaming. I game on Manjaro (Arch btw) and run my own server for one of my favorite FPS, Rising Storm 2: Vietnam.
+When I'm not coding or studying, you can find me immersed in gaming. I game on Manjaro (Arch btw) and help run a server for one of my favorite FPS, Rising Storm 2: Vietnam.
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexrezkalla/)
